@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+}
+
+thead > td {
+  text-align: center;
+}
+
+td {
+  border: 1px solid black;
+  min-width: 20px;
+  height: 20px;
+}
+
+tr > td:first-child {
+  text-align: center;
+}
